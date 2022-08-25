@@ -1,5 +1,5 @@
 # Web-Demo 
-is a published browser virsion of my low poly open world game
+is a published browser version of my low poly open world game
 And by piblished i mean runnable, but the fact it is an experimental project and represents my learning journy so please DO NOT expect it to be perfect.
 I'm more than happy with what it is like and what it is about to be soon.
 As it is all handmade with no third party packages/visual scripts.
